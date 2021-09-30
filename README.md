@@ -15,7 +15,7 @@
 - https://github.com/salvatorecorsaro/crud-microservice-demo
 
 To run a Spring project from the console, go to the root folder of the project and type the following command: 
-.\mvnw spring-boot:run
+- .\mvnw spring-boot:run
 
 
 
